@@ -1,2 +1,2 @@
 # ofisia.github.io
-Jimmy Ofisia — graphic designer from Surabaya, Indonesia
+Jimmy Ofisia — climate conscious graphic designer from Surabaya, Indonesia
