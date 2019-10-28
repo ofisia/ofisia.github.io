@@ -1,0 +1,27 @@
+@charset 'UTF-8';
+/* CSS Document */
+/* Filename: webfonts_remote.css */
+
+@font-face {
+	font-family: 'Inria Sans';
+	src: url('https://assets.ofisia.name/_type/InriaSans-Light.eot');
+	src: url('https://assets.ofisia.name/_type/InriaSans-Light.eot?#iefix') format('embedded-opentype'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Light.woff2') format('woff2'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Light.woff') format('woff'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+	font-family: 'Inria Sans';
+	src: url('https://assets.ofisia.name/_type/InriaSans-Bold.eot');
+	src: url('https://assets.ofisia.name/_type/InriaSans-Bold.eot?#iefix') format('embedded-opentype'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Bold.woff2') format('woff2'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Bold.woff') format('woff'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+    font-display: swap;
+}
