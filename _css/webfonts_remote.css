@@ -4,11 +4,11 @@
 
 @font-face {
 	font-family: 'Inria Sans';
-	src: url('https://assets.ofisia.name/_type/InriaSans-Light.eot');
-	src: url('https://assets.ofisia.name/_type/InriaSans-Light.eot?#iefix') format('embedded-opentype'),
-		 url('https://assets.ofisia.name/_type/InriaSans-Light.woff2') format('woff2'),
-		 url('https://assets.ofisia.name/_type/InriaSans-Light.woff') format('woff'),
-		 url('https://assets.ofisia.name/_type/InriaSans-Light.ttf') format('truetype');
+	src: url('https://assets.ofisia.name/_type/InriaSans-Regular.eot');
+	src: url('https://assets.ofisia.name/_type/InriaSans-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Regular.woff2') format('woff2'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Regular.woff') format('woff'),
+		 url('https://assets.ofisia.name/_type/InriaSans-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
     font-display: swap;
